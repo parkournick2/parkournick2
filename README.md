@@ -2,7 +2,6 @@
 I am a fullstack web developer 
 - 🔭 Working on frontend and backend projects using React and Nodejs
 - 🌱 Learning OOP Typescript
-- 📱 Learning React Native
 <br>
 
 ## Connect with me
