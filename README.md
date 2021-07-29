@@ -4,8 +4,8 @@ I am a fullstack web developer
 - 🌱 Learning OOP Typescript
 <br>
 
-## Personal Website
-[:earth_americas: click here](https://parkournick2.github.io/personal-website/)
+## Projects :earth_americas:
+[personal website](https://parkournick2.github.io/personal-website/)
 
 ## Connect with me
 
