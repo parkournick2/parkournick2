@@ -6,6 +6,9 @@ I am a fullstack web developer
 
 ## Projects :earth_americas:
 - [personal website](https://parkournick2.github.io/personal-website/)
+- [Pic4Share](http://ec2-54-172-103-84.compute-1.amazonaws.com:3000/)
+- [Tinder Clone](http://nicolastinder.surge.sh/)
+- [Labecommerce](http://labenu-labecommerce.surge.sh/)
 
 
 ## Connect with me
