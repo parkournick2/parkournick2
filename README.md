@@ -5,7 +5,7 @@ I am a fullstack web developer
 <br>
 
 ## Personal Website
-https://parkournick2.github.io/personal-website/
+(:earth_americas:)[https://parkournick2.github.io/personal-website/]
 
 ## Connect with me
 
