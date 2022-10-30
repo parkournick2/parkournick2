@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a fullstack web developer 
-- 🔭 Working with React and Rails
-- 🌱 Learning Flutter
+- 🔭 Working with React and Ruby on Rails
+- 🌱 Learning Unity
 <br>
 
 ## Connect with me
