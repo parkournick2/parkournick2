@@ -22,6 +22,7 @@ I am a fullstack web developer
 <img alt="libs" src="https://img.shields.io/badge/-FRAMEWORKS%20AND%20LIBS-important" />
 
 - React
+- Angular
 - Ruby on Rails
 - Material UI
 
