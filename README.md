@@ -35,6 +35,8 @@ I am a fullstack web developer
 <img alt="other" src="https://img.shields.io/badge/-OTHER-blueviolet" />
 
 - Unity Game Engine
+- Game Design
+- Pixel Art
 - SQL
 - PostgreSQL
 - Linux
