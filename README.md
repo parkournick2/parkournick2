@@ -7,6 +7,12 @@ I am a fullstack web developer
 <img alt="devops" src="https://img.shields.io/badge/-DEVOPS-blue" />
 
 - AWS Amplify
+- AWS EC2
+- AWS Lambda
+- AWS ElasticCache
+- AWS Elastic Beanstalk
+- AWS RDS
+- AWS VPC
 - Heroku
 - Github Actions
 - Jira Automation
