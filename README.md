@@ -1,7 +1,7 @@
 ## Hello World 👋
 I am a fullstack web developer 
 - 🔭 Working with React and Ruby on Rails
-- 🌱 Learning Unity
+- 🌱 Learning Nestjs
 
 ## Some of my skills 👋
 <img alt="devops" src="https://img.shields.io/badge/-DEVOPS-blue" />
